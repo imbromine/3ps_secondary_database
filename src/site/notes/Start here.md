@@ -14,6 +14,4 @@ note 2: this will mainly ==focus on the lore== aspect of 3ps or focus on it enti
 
 Referring to the graph view will be helpful in assisting you navigate!
 
-==[[Lore\|Lore]]==
-==[[Summarized Lore\|Summarized Lore]]==
-==[[W.I.P Lore\|W.I.P Lore]]==
+[[]]
