@@ -9,3 +9,11 @@ enjoy your stay
 -E19_q
 
 note: this is exclusively managed by me at this point of time, so ==things will take a good while to appear==
+
+note 2: this will mainly ==focus on the lore== aspect of 3ps or focus on it entirely
+
+Referring to the graph view will be helpful in assisting you navigate
+
+==[[Lore\|Lore]]==
+==[[Summarized Lore\|Summarized Lore]]==
+==[[W.I.P Lore\|W.I.P Lore]]==
